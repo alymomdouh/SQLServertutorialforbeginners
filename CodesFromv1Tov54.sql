@@ -88,8 +88,8 @@ go
 		end 
 		--- difference between all type of functions 
 --v33 important concepts related to functions 
-		---deterministic function  -----count(),pow,avg()----        åì ÏÇáå ßá ãÑÉ ÇäÏå ÚáíåÇ ÊÚØì äÝÓ  ÇáÞíã ãÇáã íÛíÑ Ýì ÇáÌÏæá ÇáÇÓÇÓì 
-		----nondeterministic   getdate(),rand(),current_timestamp()       åì ÏÇáÉ ÊÛíÑ ßá ãÑÉ æáÇ ÊÚãÏ Úáì Çì ÌÏæá æáÇ Çì ÍÇÌÉ 
+		---deterministic function  -----count(),pow,avg()----        ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½  ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 
+		----nondeterministic   getdate(),rand(),current_timestamp()       ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ 
 		--sp_helptext funname
 		--  with encryption     --protect function 
 --		with schemaBinding  --use in function to prevent user from drop table make on it function or use this table a function 
@@ -188,10 +188,5 @@ go
 		--********** not view **********
 --v54  pivot in sql server 2008            very  very very important video 
 		--pivot operator is sql server operator used to turn unique values from one column into multiple columns in the output
----v55 error handling in sql server 2000
-      -----Error Handling in  SQL Server 2000 ==>     @@Error 
-      -----Error Handling in  SQL Server 2005 & later ==> Try Catch 
-
-
-
+		
 
